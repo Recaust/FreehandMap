@@ -1,0 +1,5 @@
+name=Freehand Map Drawing
+id=FreehandMapDraw
+description=Allows freehand line drawing on the in-game map.
+poster=poster.png
+versionMin=42.0
